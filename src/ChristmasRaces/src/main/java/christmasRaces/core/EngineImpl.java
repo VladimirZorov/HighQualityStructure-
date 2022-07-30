@@ -1,10 +1,11 @@
 package ChristmasRaces.src.main.java.christmasRaces.core;
 
 import ChristmasRaces.src.main.java.christmasRaces.common.Command;
-import christmasRaces.core.interfaces.Controller;
-import christmasRaces.core.interfaces.Engine;
-import christmasRaces.io.interfaces.InputReader;
-import christmasRaces.io.interfaces.OutputWriter;
+import ChristmasRaces.src.main.java.christmasRaces.core.interfaces.Controller;
+import ChristmasRaces.src.main.java.christmasRaces.core.interfaces.Engine;
+import ChristmasRaces.src.main.java.christmasRaces.io.interfaces.InputReader;
+import ChristmasRaces.src.main.java.christmasRaces.io.interfaces.OutputWriter;
+
 
 import java.io.IOException;
 import java.util.Arrays;

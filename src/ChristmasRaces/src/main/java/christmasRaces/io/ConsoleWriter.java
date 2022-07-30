@@ -1,6 +1,7 @@
 package ChristmasRaces.src.main.java.christmasRaces.io;
 
-import christmasRaces.io.interfaces.OutputWriter;
+import ChristmasRaces.src.main.java.christmasRaces.io.interfaces.OutputWriter;
+
 
 public class ConsoleWriter implements OutputWriter {
     @Override

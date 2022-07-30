@@ -1,16 +1,12 @@
 package ChristmasRaces.src.main.java.christmasRaces;
 
-import christmasRaces.core.ControllerImpl;
-import christmasRaces.core.EngineImpl;
-import christmasRaces.core.interfaces.Controller;
-import christmasRaces.entities.cars.Car;
-import christmasRaces.entities.drivers.Driver;
-import christmasRaces.entities.races.Race;
-import christmasRaces.io.ConsoleReader;
-import christmasRaces.io.ConsoleWriter;
-import christmasRaces.repositories.CarRepository;
-import christmasRaces.repositories.DriverRepository;
-import christmasRaces.repositories.RaceRepository;
+import ChristmasRaces.src.main.java.christmasRaces.core.EngineImpl;
+import ChristmasRaces.src.main.java.christmasRaces.core.interfaces.Controller;
+import ChristmasRaces.src.main.java.christmasRaces.entities.cars.Car;
+import ChristmasRaces.src.main.java.christmasRaces.entities.drivers.Driver;
+import ChristmasRaces.src.main.java.christmasRaces.entities.races.Race;
+import ChristmasRaces.src.main.java.christmasRaces.io.ConsoleReader;
+import ChristmasRaces.src.main.java.christmasRaces.io.ConsoleWriter;
 import ChristmasRaces.src.main.java.christmasRaces.repositories.interfaces.Repository;
 
 public class Main {

@@ -1,6 +1,6 @@
 package ChristmasRaces.src.main.java.christmasRaces.entities.drivers;
 
-import christmasRaces.entities.cars.Car;
+import ChristmasRaces.src.main.java.christmasRaces.entities.cars.Car;
 
 public interface Driver {
     String getName();

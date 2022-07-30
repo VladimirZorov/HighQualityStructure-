@@ -1,6 +1,7 @@
 package ChristmasRaces.src.main.java.christmasRaces.io;
 
-import christmasRaces.io.interfaces.InputReader;
+import ChristmasRaces.src.main.java.christmasRaces.io.interfaces.InputReader;
+
 
 import java.io.BufferedReader;
 import java.io.IOException;
